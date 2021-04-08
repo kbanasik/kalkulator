@@ -9,9 +9,6 @@ package nowypakiet;
  *
  * @author T1
  */
-public class NewClass {
-    
-    public double xxx;
-    
+public class NewClass1 {
     
 }
