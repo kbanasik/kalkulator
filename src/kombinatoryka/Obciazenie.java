@@ -14,6 +14,7 @@ public class Obciazenie {
     public int type;
     public String name;
     public String nowa;
+    public double xxx;
 
     public Obciazenie(int id, int type, String name) {
         this.id = id;
